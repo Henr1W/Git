@@ -2,3 +2,4 @@
 - Pikakaurahiutale
 - Oivariini
 - Maitoa
+- Salaattia
