@@ -4,3 +4,4 @@
 - Maitoa
 - Salaattia
 - Karamelli
+- Hiekka
