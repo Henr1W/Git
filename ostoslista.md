@@ -6,6 +6,4 @@
 - Karamelli
 - Hiekka
 - lololol
-- huaehauehau
-- abcd
-- testi testinen
+- XD
